@@ -6,4 +6,3 @@ node('docker') {
         }
     }
 }
-PHP
